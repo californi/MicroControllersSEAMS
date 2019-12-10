@@ -35,7 +35,8 @@ namespace Controller.Knowledge.Controllers
         {
             RequiredAdaptation res = await _knowledgeService.UpdateKnowledge(requiredAdaptation);
 
-            Uri uri = new Uri($"rabbitmq://{_config.GetValue<string>("RabbitMQHostName")}/update");
+            Uri uri = new Uri($"rabbitmq://localhost/update");
+
 
             var endPoint = await _bus.GetSendEndpoint(uri);
             await endPoint.Send(res);

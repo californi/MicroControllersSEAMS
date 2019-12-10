@@ -9,9 +9,14 @@ namespace Controller.Knowledge.Services
 {
     public class KnowledgeService : IKnowledgeService
     {
-        public Task<RequiredAdaptation> UpdateKnowledge(RequiredAdaptation requiredAdaptation)
+        public async Task<RequiredAdaptation> UpdateKnowledge(RequiredAdaptation requiredAdaptation)
         {
-            throw new NotImplementedException();
+            RequiredAdaptation newObj = new RequiredAdaptation();
+            newObj.Id = 55;
+            newObj.Description = "We are trying!";
+
+            return await Task.FromResult(newObj);
         }
+
     }
 }

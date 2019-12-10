@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\infraestruture\\infraestruture.csproj",
+      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\infraestruture\\infraestruture.csproj",
       "projectName": "infraestruture",
-      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\infraestruture\\infraestruture.csproj",
+      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\infraestruture\\infraestruture.csproj",
       "packagesPath": "C:\\Users\\Bento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\infraestruture\\obj\\",
+      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\infraestruture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",

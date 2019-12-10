@@ -7,6 +7,6 @@ namespace core.Entities
     public class RequiredAdaptation
     {
         public int Id { get; set; }
-        public string description { get; set; }
+        public string Description { get; set; }
     }
 }

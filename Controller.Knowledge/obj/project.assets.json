@@ -52,6 +52,32 @@
           "lib/netstandard2.0/MassTransit.dll": {}
         }
       },
+      "MassTransit.Extensions.DependencyInjection/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MassTransit": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll": {}
+        }
+      },
+      "MassTransit.RabbitMQ/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MassTransit": "6.0.0",
+          "RabbitMQ.Client": "5.1.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll": {}
+        }
+      },
       "MediatR/7.0.0": {
         "type": "package",
         "compile": {
@@ -382,7 +408,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
@@ -619,6 +645,15 @@
         },
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
+        }
+      },
+      "RabbitMQ.Client/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {}
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -1933,6 +1968,36 @@
         "masstransit.nuspec"
       ]
     },
+    "MassTransit.Extensions.DependencyInjection/6.0.0": {
+      "sha512": "T6JVzx/fPdMHQqct+JqeH7M/a7taL+yZ4lBSzYPJUvioI5mHme09ZlEEFtBpkr5KBa4rD3BEc82XHRoeHotgng==",
+      "type": "package",
+      "path": "masstransit.extensions.dependencyinjection/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MassTransit.ExtensionsDependencyInjectionIntegration.dll",
+        "lib/net461/MassTransit.ExtensionsDependencyInjectionIntegration.xml",
+        "lib/netstandard2.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll",
+        "lib/netstandard2.0/MassTransit.ExtensionsDependencyInjectionIntegration.xml",
+        "masstransit.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+        "masstransit.extensions.dependencyinjection.nuspec"
+      ]
+    },
+    "MassTransit.RabbitMQ/6.0.0": {
+      "sha512": "ODjMuRgCjzjbai3Uj6cMhANdyMWAibjIc4oxciGha8Hm8v+KL7fTgZG6bWcfL82g7zrxSzIaRSxxC128H/XFUQ==",
+      "type": "package",
+      "path": "masstransit.rabbitmq/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MassTransit.RabbitMqTransport.dll",
+        "lib/net461/MassTransit.RabbitMqTransport.xml",
+        "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll",
+        "lib/netstandard2.0/MassTransit.RabbitMqTransport.xml",
+        "masstransit.rabbitmq.6.0.0.nupkg.sha512",
+        "masstransit.rabbitmq.nuspec"
+      ]
+    },
     "MediatR/7.0.0": {
       "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
       "type": "package",
@@ -2316,16 +2381,16 @@
         "microsoft.extensions.configuration.abstractions.nuspec"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
-      "sha512": "eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+      "sha512": "f9hstgjVmr6rmrfGSpfsVOl2irKAgr1QjrSi3FgnS7kulxband50f2brRLwySAQTADPZeTdow0mpSMcoAdadCw==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
@@ -2684,6 +2749,23 @@
         "lib/netstandard2.0/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.2.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+      ]
+    },
+    "RabbitMQ.Client/5.1.2": {
+      "sha512": "Xhj+un0pw4N7h37SZWptxl/NEv7f1RLHwZhXjqzkCm3w3IdbFJh+HjVyPaciD848BUYLGoEQzadx90nShsbs4Q==",
+      "type": "package",
+      "path": "rabbitmq.client/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net451/RabbitMQ.Client.dll",
+        "lib/net451/RabbitMQ.Client.xml",
+        "lib/netstandard1.5/RabbitMQ.Client.dll",
+        "lib/netstandard1.5/RabbitMQ.Client.xml",
+        "lib/netstandard2.0/RabbitMQ.Client.dll",
+        "lib/netstandard2.0/RabbitMQ.Client.xml",
+        "rabbitmq.client.5.1.2.nupkg.sha512",
+        "rabbitmq.client.nuspec"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -6217,6 +6299,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+      "MassTransit >= 6.0.0",
+      "MassTransit.Extensions.DependencyInjection >= 6.0.0",
+      "MassTransit.RabbitMQ >= 6.0.0",
       "MediatR >= 7.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 7.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.9.5",
@@ -6231,11 +6316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\Controller.Knowledge\\Controller.Knowledge.csproj",
+      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\Controller.Knowledge\\Controller.Knowledge.csproj",
       "projectName": "Controller.Knowledge",
-      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\Controller.Knowledge\\Controller.Knowledge.csproj",
+      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\Controller.Knowledge\\Controller.Knowledge.csproj",
       "packagesPath": "C:\\Users\\Bento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\Controller.Knowledge\\obj\\",
+      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\Controller.Knowledge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6252,8 +6337,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\core\\core.csproj": {
-              "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\core\\core.csproj"
+            "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\core\\core.csproj": {
+              "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\core\\core.csproj"
             }
           }
         }
@@ -6267,6 +6352,18 @@
     "frameworks": {
       "netcoreapp3.0": {
         "dependencies": {
+          "MassTransit": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "MassTransit.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "MassTransit.RabbitMQ": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
           "MediatR": {
             "target": "Package",
             "version": "[7.0.0, )"

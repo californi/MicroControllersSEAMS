@@ -6,3 +6,11 @@ C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\core\obj\Debug\netcoreapp3.0\c
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\core\obj\Debug\netcoreapp3.0\core.AssemblyInfo.cs
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\core\obj\Debug\netcoreapp3.0\core.dll
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\core\obj\Debug\netcoreapp3.0\core.pdb
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\bin\Debug\netcoreapp3.0\core.deps.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\bin\Debug\netcoreapp3.0\core.dll
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\bin\Debug\netcoreapp3.0\core.pdb
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\obj\Debug\netcoreapp3.0\core.csprojAssemblyReference.cache
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\obj\Debug\netcoreapp3.0\core.AssemblyInfoInputs.cache
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\obj\Debug\netcoreapp3.0\core.AssemblyInfo.cs
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\obj\Debug\netcoreapp3.0\core.dll
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\core\obj\Debug\netcoreapp3.0\core.pdb

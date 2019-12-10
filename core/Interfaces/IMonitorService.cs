@@ -9,5 +9,7 @@ namespace core.Interfaces
     public interface IMonitorService
     {
         Task<int> SendMessageToAnalyser(RequiredAdaptation requiredAdaptation);
+
+        Task<RequiredAdaptation> GetDataOfMonitoring();
     }
 }

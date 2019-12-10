@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroController.ErrorDetection\\MicroController.ErrorDetection.csproj",
+      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\MicroController.ErrorDetection\\MicroController.ErrorDetection.csproj",
       "projectName": "MicroController.ErrorDetection",
-      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroController.ErrorDetection\\MicroController.ErrorDetection.csproj",
+      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\MicroController.ErrorDetection\\MicroController.ErrorDetection.csproj",
       "packagesPath": "C:\\Users\\Bento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroController.ErrorDetection\\obj\\",
+      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\MicroController.ErrorDetection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",

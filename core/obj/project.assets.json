@@ -4913,11 +4913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\core\\core.csproj",
+      "projectUniqueName": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\core\\core.csproj",
       "projectName": "core",
-      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\core\\core.csproj",
+      "projectPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\core\\core.csproj",
       "packagesPath": "C:\\Users\\Bento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\core\\obj\\",
+      "outputPath": "C:\\Users\\Bento\\Desktop\\SEAMS2020\\microcontrollers\\MicroControllersSEAMS\\core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bento\\AppData\\Roaming\\NuGet\\NuGet.Config",
