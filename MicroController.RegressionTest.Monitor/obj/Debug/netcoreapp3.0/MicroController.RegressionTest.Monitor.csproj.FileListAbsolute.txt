@@ -1,0 +1,17 @@
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\staticwebassets\MicroController.RegressionTest.Monitor.StaticWebAssets.Manifest.cache
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\staticwebassets\MicroController.RegressionTest.Monitor.StaticWebAssets.xml
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.AssemblyInfoInputs.cache
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.AssemblyInfo.cs
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.RazorTargetAssemblyInfo.cache
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.exe
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.deps.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.runtimeconfig.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.runtimeconfig.dev.json
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.dll
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\bin\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.pdb
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.dll
+C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\MicroController.RegressionTest.Monitor\obj\Debug\netcoreapp3.0\MicroController.RegressionTest.Monitor.pdb

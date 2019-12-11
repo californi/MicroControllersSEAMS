@@ -9,7 +9,6 @@ C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\infraestruture\obj\Debug\netco
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\bin\Debug\netcoreapp3.0\infraestruture.deps.json
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\bin\Debug\netcoreapp3.0\infraestruture.dll
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\bin\Debug\netcoreapp3.0\infraestruture.pdb
-C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\obj\Debug\netcoreapp3.0\infraestruture.csprojAssemblyReference.cache
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\obj\Debug\netcoreapp3.0\infraestruture.AssemblyInfoInputs.cache
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\obj\Debug\netcoreapp3.0\infraestruture.AssemblyInfo.cs
 C:\Users\Bento\Desktop\SEAMS2020\microcontrollers\MicroControllersSEAMS\infraestruture\obj\Debug\netcoreapp3.0\infraestruture.dll
